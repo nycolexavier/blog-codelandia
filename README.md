@@ -1,9 +1,9 @@
-![banner-grid-e-flexbox](https://user-images.githubusercontent.com/74930052/148692485-25620960-a4a2-42e8-bb9b-370a34631566.png)
+![banner-blog-codelandia](https://user-images.githubusercontent.com/74930052/148758648-71a20c6c-cfcb-4889-8d20-bb21e9b4f039.png)
 ----
 <img src="https://img.shields.io/static/v1?label=Status&message=complete&color=00800&style=for-the-badge&logo=ghost"/>
 
 ### Application: 
-
+![aplicacao-codelandia](https://user-images.githubusercontent.com/74930052/148758665-add4b22a-9ebc-4ce5-b3be-4a2c088010a0.png)
 
 
 <p align="center">Este repositório faz parte da série de desafios da comunidade Codelândia <a href="https://discord.com/invite/QevDJqCzaY" target='_blank'> Aqui </a> </p>
